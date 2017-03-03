@@ -80,11 +80,27 @@
     esc_html();     // Bereinigt HTML-Ausgaben. Auch Anführungszeichen werden sauber umgewandelt. 
     
   
-  // Registrierung
+  // Spezielle Theme-Optionen aktivieren (gehört in die Datei functions.php!)
+    
+    add_theme_support( 'post-thumbnails' );                           // Aktiviert Beitragsbilder im Theme für alle Posts
+    add_theme_support( 'post-thumbnails', array( 'post', 'movie' ) ); // Aktiviert diese nur für Beiträge und Custom Post Type "movie"
+    add_theme_support( 'custom-background' );                         // Individuelles Hintergrund-Bild (anpassbar via Theme-Customizer)
+    add_theme_support( 'custom-header' );                             // Individuelles Kopfbild (anpassbar via Theme-Customizer)
+    add_theme_support( 'custom-logo' );                               // Individuelles Logo (anpassbar via Theme-Customizer)
+    add_theme_support( 'title-tag' );                                 // Erlaubt Plugins den <title>-Tag zu beeeinflussen (z.B. Yoast)
   
-    register_sidebar();     // Erlaubt die Registrierung neuer Sidebars im Theme
+  
+  // Registrierung (gehört in die Datei functions.php)
+  
+    register_sidebar();     // Erlaubt die Registrierung einer neuen Sidebars im Theme
     register_nav_menu();    // Erlaubt die Registrierung eines neuen Menüs im Theme
     register_post_type();   // Erlaubt die Registrierung eines neuen Custom Post Types
+    
+  
+  // Filter-Hooks & Action-Hooks (Beispiele der Vollständigkeit halber)
+  
+    add_action('init','myThemefunc');             // Führt die Funktion myThemeFunc() aus wenn das WordPress-Event "init" ausgeführt wird.
+    add_filter('the_content', 'filterMyContent'); // Filtert die Ausgabe von the_content anhand der Funktion filterMyContent()
     
     
   
