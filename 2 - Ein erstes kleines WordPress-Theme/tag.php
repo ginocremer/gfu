@@ -1,0 +1,1 @@
+<h1>tag.php: Gleiches Spiel wie die category.php - nur für Tags</h1>
