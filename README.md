@@ -56,17 +56,17 @@
 - 3 - Populäre Funktionen im Überblick
 - 4 - Filter-Hooks und Action-Hooks
 
-**4 - Der Theme Unterbau anhand von TwentySeventeen**
- [https://github.com/WordPress/twentyseventeen](https://github.com/WordPress/twentyseventeen)
-
-- Gemeinsame Analyse von Twenty-Seventeen
-- Vorstellung der einzelnen Templates und Best-Practices
-
 
 
 **TAG 4**
 
 **Schwerpunkt: Statisches HTML/CSS Layout in WordPress-Theme umwandeln**
+
+**4 - Der Theme Unterbau anhand von TwentySeventeen**
+ [https://github.com/WordPress/twentyseventeen](https://github.com/WordPress/twentyseventeen)
+
+- Gemeinsame Analyse von Twenty-Seventeen
+- Vorstellung der einzelnen Templates und Best-Practices
 
 - Vorstellung des Praxis Workshops
 - ein erstes Theme mit einer Index.php und einer Style.css
@@ -92,11 +92,15 @@
 
 **Schwerpunkt: Optimierung des Themes über ACF, Plugin-Analyse &quot;Hello Dolly&quot;, Custom Post Types einrichten**
 
-- Advanced Custom Field Ausgabe vorstellen (the\_field und Bilder und Dateien über deren ID auslesen und die Funktionen get\_attachment\_src\_url und get\_image\_src\_url
 - Custom Post Type generieren und einbinden
+
+- Advanced Custom Field Ausgabe vorstellen (the\_field und Bilder und Dateien über deren ID auslesen und die Funktionen get\_attachment\_src\_url und get\_image\_src\_url
 - Custom Post Type mit ACF erweitern
+
 - Grundlagen WordPress-Plugins
 - &quot;Hello Dolly&quot; unter der Lupe als Beispiel
 - Ein erstes eigenes WordPress-Plugin
 - einen Blog einfach umziehen mit Duplicator
 - Praktische Arbeiten (jeder bei sich) + Questions/Answer
+
+- Leute versammeln! und gemeinsame Evaluierung
