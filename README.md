@@ -6,8 +6,7 @@
 - Allgemeine Fragerunde: Skills, Erwartungen, Anforderungen
 - WordPress auf Hosts installieren via XAMPP
 - WordPress: Erklärung der gesamten Oberfläche mit Tricks und Kniffen (Reiter Optionen oben in der Ecke, Menüs anlegen, Beiträge und Seiten erstellen, Bildergalerien,...)
-- Vorstellung der WordPress Plugins in &quot;Favoriten&quot; (WP Zugang pixelbargmbh)
-- Plugins finden: Qualitatskriterien und Suche
+
 
 
 
@@ -15,12 +14,22 @@
 
 **Schwerpunkte: WordPress SEO, WordPress-Themes bewerten, installieren und einrichten, WordPress absichern, Backups einrichten, WordPress beschleunigen**
 
-- Themes finden und verändern : Free vs PremiumThemes (Vor und Nachteile)
-- Allgemeine Tipps wie Debug Mode und Fehlersuche, Plugins deaktivieren via ftp ,...
+- Vorstellung der WordPress Plugins in &quot;Favoriten&quot; (WP Zugang pixelbargmbh)
+- Plugins finden: Qualitatskriterien und Suche
 - SEO-Optimierung mit YOAST
 - WordPress absichern mit Ex-Betterwp Security (iThemes)
+
+- Themes finden und verändern : Free vs PremiumThemes (Vor und Nachteile)
+- Mittagspause
+- Selbstständig Themes heraussuchen und vorstellen
+ 
+- Allgemeine Tipps wie Debug Mode und Fehlersuche, Plugins deaktivieren via ftp ,...
 - Backups klug und sicher mit BackWPup
+- Duplicator
+
 - WordPress beschleunigen mit Caching-Plugins + Performance-Tipps und Benchmarking
+
+- Outro der TN, die den Kurs verlassen 15:30, 16:10 Shuttle
 
 
 
