@@ -7,29 +7,31 @@
    * Werte zurückgeben (die dann wiederum weiterverwertet werden können außerhalb der Funktion) oder Werte ausgeben. 
    */ 
   
-  function giveAge($age) {
+  function sendAge($age) {
     $output = 'Ich bin '.$age.' Jahre alt';
     echo $output; // echo gibt direkt aus
   }
   
-  function returnAge($age) {
+  function getAge($age) {
     $output = 'Ich bin '.$age.' Jahre alt';
     return $output; // return übergibt nur den Wert und gibt ihn nicht direkt aus
   }
   
-  giveAge(13); // Gibt 'Ich bin 13 Jahre alt' aus
+  sendAge(13); // Gibt 'Ich bin 13 Jahre alt' aus
   
-  returnAge(13); // Gibt 'Ich bin 13 Jahre alt' zurück - nicht aus
+  getAge(13); // Gibt 'Ich bin 13 Jahre alt' zurück - nicht aus
   
   /*
    * ---- ÜBERGABE MEHRERER PARAMETER
-   *  Gerade im WordPress-Kontext werden oftmals mehrere Parameter übergeben und verwertet
+   *  Gerade im WordPress-Kontext werden oftmals mehrere Parameter übergeben und verwertet. Hier können auch Standardwerte mitgegeben werden
    */
   
-  function personalInfo($age,$name) {
+  function personalInfo($age = 18,$name = 'Mustermann') {
     $output = 'Ich bin '.$age.' Jahre alt und heisse '.$name.'!';
     echo $output;
   }
-  personalInfo(2,'Janosch');
+  personalInfo(2,'Janosch'); // Ich bin 2 Jahre alt und heisse Janosch!
+  personalInfo(); // Ich bin 18 Jahre alt und heisse Mustermann!
+  
 ?>
   

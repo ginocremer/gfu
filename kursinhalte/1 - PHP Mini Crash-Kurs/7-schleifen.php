@@ -11,7 +11,7 @@
       echo $number.'<br>'; // gibt Zahl aus und einen HTML-Zeilenumbruch
     }; // Beende die Schleife wenn die Bedingung nicht mehr erfüllt ist.
     
-  // Ebenfalls möglich
+  // Ebenfalls möglich als alternative Schreibweise:
     while($number <= 10):
       echo $number.'<br>';
     endwhile;
@@ -30,7 +30,7 @@
 
 
   // Eine Foreach-Schleife kann ebenfalls genutzt werden
-    foreach($weekdays as $key->$value) {
+    foreach($weekdays as $weekday->$name) {
       echo $weekday.'<br>'; 
     }
 

@@ -5,38 +5,47 @@
 
 - Allgemeine Fragerunde: Skills, Erwartungen, Anforderungen
 - WordPress auf Hosts installieren via XAMPP
-- WordPress: Erklärung der gesamten Oberfläche mit Tricks und Kniffen (Reiter Optionen oben in der Ecke, Menüs anlegen, Beiträge und Seiten erstellen, Bildergalerien,...)
 
+Mittagspause
 
+- WordPress: Erklärung der gesamten Oberfläche (Reiter Optionen oben in der Ecke, Menüs anlegen, Beiträge und Seiten erstellen, Bildergalerien,...)
+
+**Tagesziel**: WP Installiert und jeder hat eine Seite und einen Beitrag erstellt zur Vorbereitung auf Tag 2
 
 
 **TAG 2**
 
 **Schwerpunkte: WordPress SEO, WordPress-Themes bewerten, installieren und einrichten, WordPress absichern, Backups einrichten, WordPress beschleunigen**
 
+PLUGINS:
 - Vorstellung der WordPress Plugins in &quot;Favoriten&quot; (WP Zugang pixelbargmbh)
 - Plugins finden: Qualitatskriterien und Suche
 - SEO-Optimierung mit YOAST
 - WordPress absichern mit Ex-Betterwp Security (iThemes)
 
+THEMES:
 - Themes finden und verändern : Free vs PremiumThemes (Vor und Nachteile)
-- Mittagspause
+
+Mittagspause
+
 - Selbstständig Themes heraussuchen und vorstellen
  
 - Allgemeine Tipps wie Debug Mode und Fehlersuche, Plugins deaktivieren via ftp ,...
 - Backups klug und sicher mit BackWPup
 - Duplicator
 
-- WordPress beschleunigen mit Caching-Plugins + Performance-Tipps und Benchmarking
+- (WordPress beschleunigen mit Caching-Plugins + Performance-Tipps und Benchmarking) -> Nur wenn Zeit reicht
 
 - Outro der TN, die den Kurs verlassen 15:30, 16:10 Shuttle
+
+
+**Tagesziel**: Themes und Plugins können gefunden und installiert werden. Backups, Securiyy-Plugin und SEO-Plugin wurden eingerichtet. 
 
 
 
 **TAG 3**
 
 **Schwerpunkte: PHP-Grundlagen, WordPress-Themes verstehen, Template-Kaskade, Loop, Funktionen, Action-Hooks und Filter-Hooks  (Git-Repo)**
-
 
 
 **1 - PHP Mini Crash-Kurs (siehe Git Repo)**
