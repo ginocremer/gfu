@@ -15,13 +15,6 @@
     while($number <= 10):
       echo $number.'<br>';
     endwhile;
-
-  
-  // Eine Do-While-Schleife - Prüft erst nach dem ersten Durchlauf - Nur in dieser Schreibweise möglich
-    do {
-      echo $number.'<br>'; // gibt Zahl aus und einen HTML-Zeilenumbruch
-    } while ($number <= 10);
-    
     
   // Eine For-Schleife kann Arrays durchlaufen bzw. iterieren. Ihr werden 3 Parameter übergeben.
     $weekdays = array('Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday');
@@ -34,5 +27,13 @@
     foreach($weekdays as $weekday) {
       echo $weekday.'<br>'; 
     }
+
+
+  // Eine Foreach-Schleife kann ebenfalls genutzt werden
+    foreach($weekdays as $key->$value) {
+      echo $weekday.'<br>'; 
+    }
+
+
   
 ?>
