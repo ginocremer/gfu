@@ -1,1 +1,0 @@
-Kursinhalt folgt
