@@ -6,3 +6,6 @@ https://developer.wordpress.org/themes/references/list-of-template-tags/
 
 ## Theme Developer Handbook von WordPress
 https://developer.wordpress.org/themes/getting-started/
+
+## Theme Unit Test Content
+https://codex.wordpress.org/Theme_Unit_Test
