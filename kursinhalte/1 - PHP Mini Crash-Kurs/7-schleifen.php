@@ -9,6 +9,7 @@
   // Die While-Schleife
     while($number <= 10) { // Solange $number kleiner gleich 10
       echo $number.'<br>'; // gibt Zahl aus und einen HTML-Zeilenumbruch
+      $number++; // Erhöht den Wert von $number um 1 um eine endlose Schleife zu umgehen.
     }; // Beende die Schleife wenn die Bedingung nicht mehr erfüllt ist.
     
   // Ebenfalls möglich als alternative Schreibweise:
