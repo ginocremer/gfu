@@ -8,6 +8,7 @@
 ### Im Theme 
 - Eine neue Sidebar registrieren „Abschluss“ mit einem Menü-Widget (mit dem neu erstellten Menü).
 - Die neue Sidebar im Theme ausgeben ganz unten im Footer <footer>
-- Einen neuen Custom Post Type "Filme" registrieren
-- Via ACF (Advanced Custom Fields) diesem Custom Post Type "Filme" neue Felder hinzufügen.
-- 
+- Einen neuen Custom Post Type eurer Wahl registrieren
+- Via ACF (Advanced Custom Fields) diesem Custom Post Type neue Felder hinzufügen.
+- Im Theme eine neue Detailansicht für den einzelnen Custom Post Type anlegen und über einen Loop den Titel und die neu hinzugefgten Felder hinzufügen
+- Im Theme eine Archiv-Übersicht des Custom Post Types anlegen mit Titel und Link zur Detailansicht
