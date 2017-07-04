@@ -16,3 +16,11 @@ https://wordpress.org/plugins/custom-post-type-ui/
 ## ACF / Advanced Custom Fields
 https://wordpress.org/plugins/acf-theme-code/
 https://wordpress.org/plugins/advanced-custom-fields/
+
+## Theming Allgemein
+https://pixelbar.be/blog/wordpress-themes-erstellen-die-wichtigsten-funktionen-im-ueberblick/
+
+## WordPress Allgemein
+https://pixelbar.be/blog/rudimentaere-bildbearbeitung-in-wordpress-gewusst-wie/
+https://pixelbar.be/blog/quickedit-wordpress-seiten-verschachteln-und-reihenfolgen-festlegen/
+https://pixelbar.be/blog/in-der-wordpress-mediathek-nach-dateinamen-suchen/
