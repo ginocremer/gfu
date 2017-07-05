@@ -1,0 +1,9 @@
+$blogargs = array(
+ 'post_type' => 'NAME DES POST TYPES'
+);
+ $blogitems = new WP_Query($blogargs); ?>
+ <?php while($blogitems->have_posts()): $blogitems->the_post(); ?>
+
+
+ <?php endwhile; ?>
+ <?php wp_reset_postdata(); ?>
