@@ -18,7 +18,7 @@
     echo 'Dieser Text wird nur auf der Seite mit der ID 3 ausgebenen';
   endif;
   
-  if( is_page('kontakt') ):
+  if( is_page()  ):
     echo 'Dieser Text wird nur auf der Seite mit dem Namen Kontakt ausgegeben';
   endif;
   
@@ -29,12 +29,16 @@
   if( is_single(17) ):
     echo 'Dieser Text wird nur auf der Detailseite des Beitrages mit der ID 17 ausgegeben';
   endif;
+
+  if( is_singular() ):
+    echo 'Dieser Text wird angezeigt wenn es sich um eine Detailseite jedwelchen Post-Types geht.';
+  endif;
   
   if( is_admin() ):
     echo 'Diesen Text kriegen nur Benutzer zu Gesicht, die als Administratoren eingeloggt sind';
   endif;
   
-  if( is_logged_in() ):
+  if( is_user_logged_in() ):
     echo 'Dieser Text wird nur für eingeloggte Nutzer angezeigt';
   endif;
   
@@ -56,6 +60,10 @@
   
   if( is_tag() ):
     echo 'Dieser Text wird nur in der Archiv-Ansicht eines Tags angezeigt';
+  endif;
+
+  if( is_archive() ):
+    echo 'Dieser Text wird nur in der Archiv-Ansicht angezeigt';
   endif;
   
   if( comments_open() ):
