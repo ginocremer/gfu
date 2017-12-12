@@ -23,7 +23,6 @@ https://codex.wordpress.org/Theme_Unit_Test
 
 ## Custom Post Types
 https://wordpress.org/plugins/custom-post-type-ui/
-
 https://generatewp.com/post-type/
 
 ## ACF / Advanced Custom Fields
