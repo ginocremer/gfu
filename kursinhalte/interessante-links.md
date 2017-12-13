@@ -33,6 +33,11 @@
 - https://wp-buddy.com/de/wordpress-plugin-development/
 - https://wp-plugin-erstellen.de/
 
+## Starter-Themes
+- https://understrap.com/
+- http://underscores.me/
+- https://themble.com/bones/
+
 ## Off-Topic / Diverses
 - https://wordpress.org/support/topic/show-past-events-list-only-the-past-6-months-events/
 
