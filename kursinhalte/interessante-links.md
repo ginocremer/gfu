@@ -18,6 +18,7 @@
 - https://pixelbar.be/blog/rudimentaere-bildbearbeitung-in-wordpress-gewusst-wie/
 - https://pixelbar.be/blog/quickedit-wordpress-seiten-verschachteln-und-reihenfolgen-festlegen/
 - https://pixelbar.be/blog/in-der-wordpress-mediathek-nach-dateinamen-suchen/
+- https://profiles.wordpress.org/pixelbargmbh#content-favorites
 
 ## Theme Unit Test Content
 - https://codex.wordpress.org/Theme_Unit_Test
