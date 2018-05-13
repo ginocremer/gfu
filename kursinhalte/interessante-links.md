@@ -10,6 +10,9 @@
 ## Child Themes
 - https://webdesign-vellmar.de/child-theme-erstellen/
 
+## PHP Allgemein
+- https://blog.marvin-menzerath.de/artikel/php-crashkurs-grundlagen/
+
 ## Theming Allgemein
 - https://pixelbar.be/blog/wordpress-themes-erstellen-die-wichtigsten-funktionen-im-ueberblick/
 - https://github.com/syamilmj/Aqua-Resizer
