@@ -8,7 +8,7 @@
 - https://developer.wordpress.org/themes/getting-started/
 
 ## Child Themes
-- https://webdesign-vellmar.de/child-theme-erstellen/
+- https://www.webtimiser.de/wordpress-child-theme-erstellen/
 
 ## PHP Allgemein
 - https://blog.marvin-menzerath.de/artikel/php-crashkurs-grundlagen/
