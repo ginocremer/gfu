@@ -23,6 +23,10 @@
 - https://pixelbar.be/blog/in-der-wordpress-mediathek-nach-dateinamen-suchen/
 - https://profiles.wordpress.org/pixelbargmbh#content-favorites
 
+## Gutenberg Editor
+- https://www.elmastudio.de/wordpress-themes-fuer-gutenberg-vorbereiten/
+- https://wordpress.org/gutenberg/handbook/
+
 ## Theme Unit Test Content
 - https://codex.wordpress.org/Theme_Unit_Test
 
