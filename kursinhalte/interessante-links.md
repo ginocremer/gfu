@@ -41,6 +41,7 @@
 ## Plugin-Entwicklung
 - https://wp-buddy.com/de/wordpress-plugin-development/
 - https://wp-plugin-erstellen.de/
+- https://die-netzialisten.de/allgemein/was-ist-eigentlich-ein-hook/
 
 ## Starter-Themes
 - https://understrap.com/
