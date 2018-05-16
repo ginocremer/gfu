@@ -37,6 +37,7 @@
 ## ACF / Advanced Custom Fields
 - https://wordpress.org/plugins/acf-theme-code/
 - https://wordpress.org/plugins/advanced-custom-fields/
+- https://awesomeacf.com/
 
 ## Plugin-Entwicklung
 - https://wp-buddy.com/de/wordpress-plugin-development/
