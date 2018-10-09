@@ -26,6 +26,8 @@
 ## Gutenberg Editor
 - https://www.elmastudio.de/wordpress-themes-fuer-gutenberg-vorbereiten/
 - https://wordpress.org/gutenberg/handbook/
+- https://www.advancedcustomfields.com/blog/the-state-of-acf-in-a-gutenberg-world/
+- 
 
 ## Theme Unit Test Content
 - https://codex.wordpress.org/Theme_Unit_Test
