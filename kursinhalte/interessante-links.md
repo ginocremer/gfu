@@ -30,6 +30,7 @@
 - Den WordPress-Inhaltsbereich ausmisten: So werden leere Tags und Inline-Styles entfernt: https://pixelbar.be/blog/den-wordpress-inhaltsbereich-ausmisten-so-werden-leere-tags-und-inline-styles-entfernt/
 - Mit „Quickedit“ in WordPress Seiten verschachteln und Reihenfolgen festlegen: https://pixelbar.be/blog/quickedit-wordpress-seiten-verschachteln-und-reihenfolgen-festlegen/
 - https://pixelbar.be/blog/in-der-wordpress-mediathek-nach-dateinamen-suchen/
+- Hunderte WordPress-Seiten bequem verwalten mit dem Nested-Pages-Plugin: https://pixelbar.be/blog/hunderte-wordpress-seiten-bequem-verwalten-mit-dem-nested-pages-plugin/
 
 ## Gutenberg Editor
 - https://www.elmastudio.de/wordpress-themes-fuer-gutenberg-vorbereiten/
