@@ -15,14 +15,21 @@
 
 ## Theming Allgemein
 - https://pixelbar.be/blog/wordpress-themes-erstellen-die-wichtigsten-funktionen-im-ueberblick/
-- https://github.com/syamilmj/Aqua-Resizer
-- https://pixelbar.be/blog/wordpress-theming-bilder-on-the-fly-template-skalieren-mit-dem-aqua-resizer/
 
-## WordPress Allgemein
-- https://pixelbar.be/blog/rudimentaere-bildbearbeitung-in-wordpress-gewusst-wie/
-- https://pixelbar.be/blog/quickedit-wordpress-seiten-verschachteln-und-reihenfolgen-festlegen/
-- https://pixelbar.be/blog/in-der-wordpress-mediathek-nach-dateinamen-suchen/
+## Plugin Empfehlungen
 - https://profiles.wordpress.org/pixelbargmbh#content-favorites
+
+### Tipps & Tricks
+- WordPress-Theming: Bilder „On The Fly“ im Template skalieren mit dem „Aqua Resizer“: https://pixelbar.be/blog/wordpress-theming-bilder-on-the-fly-template-skalieren-mit-dem-aqua-resizer/
+- Redakteuren Zugriff auf Menüs und Design gewähren: https://pixelbar.be/blog/wordpress-redakteuren-zugriff-auf-menues-und-design-gewaehren/
+- Rudimentäre Bildbearbeitung in WordPress – gewusst wie!: https://pixelbar.be/blog/rudimentaere-bildbearbeitung-in-wordpress-gewusst-wie/
+- Automatische Weiterleitung von Eltern- zu Kind-Seite: https://pixelbar.be/blog/wordpress-automatische-weiterleitung-von-eltern-zu-kind-seite/
+- ACF Felder (Advanced Custom Fields) in die WordPress-Suche aufnehmen: https://pixelbar.be/blog/acf-felder-advanced-custom-fields-in-die-wordpress-suche-aufnehmen/
+- Sicherheit durch Validierung, Sanitization und Escaping gewährleisten: https://pixelbar.be/blog/wordpress-entwickler-escaping-ausgabe/
+- WordPress Funktion: prüfen, ob Bild in gewünschter Größe existiert: https://pixelbar.be/blog/wordpress-funktion-pruefen-ob-bild-in-gewuenschter-groesse-existiert/
+- Den WordPress-Inhaltsbereich ausmisten: So werden leere Tags und Inline-Styles entfernt: https://pixelbar.be/blog/den-wordpress-inhaltsbereich-ausmisten-so-werden-leere-tags-und-inline-styles-entfernt/
+- Mit „Quickedit“ in WordPress Seiten verschachteln und Reihenfolgen festlegen: https://pixelbar.be/blog/quickedit-wordpress-seiten-verschachteln-und-reihenfolgen-festlegen/
+- https://pixelbar.be/blog/in-der-wordpress-mediathek-nach-dateinamen-suchen/
 
 ## Gutenberg Editor
 - https://www.elmastudio.de/wordpress-themes-fuer-gutenberg-vorbereiten/
