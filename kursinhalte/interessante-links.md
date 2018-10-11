@@ -16,6 +16,7 @@
 ## Theming Allgemein
 - https://pixelbar.be/blog/wordpress-themes-erstellen-die-wichtigsten-funktionen-im-ueberblick/
 - https://github.com/syamilmj/Aqua-Resizer
+- https://pixelbar.be/blog/wordpress-theming-bilder-on-the-fly-template-skalieren-mit-dem-aqua-resizer/
 
 ## WordPress Allgemein
 - https://pixelbar.be/blog/rudimentaere-bildbearbeitung-in-wordpress-gewusst-wie/
