@@ -19,7 +19,7 @@
 ## Plugin Empfehlungen
 - https://profiles.wordpress.org/pixelbargmbh#content-favorites
 
-### Tipps & Tricks
+## Tipps & Tricks
 - WordPress-Theming: Bilder „On The Fly“ im Template skalieren mit dem „Aqua Resizer“: https://pixelbar.be/blog/wordpress-theming-bilder-on-the-fly-template-skalieren-mit-dem-aqua-resizer/
 - Redakteuren Zugriff auf Menüs und Design gewähren: https://pixelbar.be/blog/wordpress-redakteuren-zugriff-auf-menues-und-design-gewaehren/
 - Rudimentäre Bildbearbeitung in WordPress – gewusst wie!: https://pixelbar.be/blog/rudimentaere-bildbearbeitung-in-wordpress-gewusst-wie/
