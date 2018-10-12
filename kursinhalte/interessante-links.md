@@ -31,6 +31,7 @@
 - Mit „Quickedit“ in WordPress Seiten verschachteln und Reihenfolgen festlegen: https://pixelbar.be/blog/quickedit-wordpress-seiten-verschachteln-und-reihenfolgen-festlegen/
 - https://pixelbar.be/blog/in-der-wordpress-mediathek-nach-dateinamen-suchen/
 - Hunderte WordPress-Seiten bequem verwalten mit dem Nested-Pages-Plugin: https://pixelbar.be/blog/hunderte-wordpress-seiten-bequem-verwalten-mit-dem-nested-pages-plugin/
+- Einzelne Seiten in WordPress per CSS ansprechen via „body_class“: https://pixelbar.be/blog/einzelne-seiten-wordpress-css-body-class/
 
 ## Gutenberg Editor
 - https://www.elmastudio.de/wordpress-themes-fuer-gutenberg-vorbereiten/
