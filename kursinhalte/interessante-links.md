@@ -32,6 +32,7 @@
 - https://pixelbar.be/blog/in-der-wordpress-mediathek-nach-dateinamen-suchen/
 - Hunderte WordPress-Seiten bequem verwalten mit dem Nested-Pages-Plugin: https://pixelbar.be/blog/hunderte-wordpress-seiten-bequem-verwalten-mit-dem-nested-pages-plugin/
 - Einzelne Seiten in WordPress per CSS ansprechen via „body_class“: https://pixelbar.be/blog/einzelne-seiten-wordpress-css-body-class/
+- WordPress umziehen ganz einfach mit dem Plugin „Duplicator“: https://pixelbar.be/blog/wordpress-umziehen-ganz-einfach-mit-dem-plugin-duplicator/
 
 ## Gutenberg Editor
 - https://www.elmastudio.de/wordpress-themes-fuer-gutenberg-vorbereiten/
