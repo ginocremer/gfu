@@ -39,9 +39,12 @@
 - https://wordpress.org/gutenberg/handbook/
 - https://www.advancedcustomfields.com/blog/the-state-of-acf-in-a-gutenberg-world/
 - https://testgutenberg.com/
+- https://deliciousbrains.com/preparing-wordpress-themes-gutenberg/
+- https://github.com/WordPress/gutenberg-starter-theme
 
 ## Theme Unit Test Content
 - https://codex.wordpress.org/Theme_Unit_Test
+- https://github.com/WPTRT/theme-unit-test/blob/blocks/themeunittestdata.wordpress.xml (für Gutenberg Themes)
 
 ## Custom Post Types
 - https://wordpress.org/plugins/custom-post-type-ui/
