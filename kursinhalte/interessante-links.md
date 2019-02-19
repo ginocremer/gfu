@@ -41,6 +41,7 @@
 - https://testgutenberg.com/
 - https://deliciousbrains.com/preparing-wordpress-themes-gutenberg/
 - https://github.com/WordPress/gutenberg-starter-theme
+- https://webdevstudios.com/2019/02/07/building-a-wordpress-theme/
 
 ## Theme Unit Test Content
 - https://codex.wordpress.org/Theme_Unit_Test
