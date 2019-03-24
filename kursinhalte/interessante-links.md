@@ -1,3 +1,6 @@
+## Tools & Helferlein
+- https://marketplace.visualstudio.com/items?itemName=tungvn.wordpress-snippet#overview
+
 ## Liste aller Conditional Tags:
 - https://developer.wordpress.org/themes/basics/conditional-tags/
 
