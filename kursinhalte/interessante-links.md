@@ -38,6 +38,7 @@
 - WordPress umziehen ganz einfach mit dem Plugin „Duplicator“: https://pixelbar.be/blog/wordpress-umziehen-ganz-einfach-mit-dem-plugin-duplicator/
 
 ## Gutenberg Editor
+- https://pixelbar.be/blog/den-gutenberg-editor-um-eigene-farbpaletten-erweitern/
 - https://www.elmastudio.de/wordpress-themes-fuer-gutenberg-vorbereiten/
 - https://wordpress.org/gutenberg/handbook/
 - https://www.advancedcustomfields.com/blog/the-state-of-acf-in-a-gutenberg-world/
