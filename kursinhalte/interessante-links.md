@@ -2,7 +2,7 @@
 - https://marketplace.visualstudio.com/items?itemName=tungvn.wordpress-snippet#overview
 
 ## Liste aller Conditional Tags:
-- https://developer.wordpress.org/themes/basics/conditional-tags/
+- https://codex.wordpress.org/Conditional_Tags
 
 ## Liste aller Template Tags:
 - https://developer.wordpress.org/themes/references/list-of-template-tags/
