@@ -37,7 +37,7 @@
 - Einzelne Seiten in WordPress per CSS ansprechen via „body_class“: https://pixelbar.be/blog/einzelne-seiten-wordpress-css-body-class/
 - WordPress umziehen ganz einfach mit dem Plugin „Duplicator“: https://pixelbar.be/blog/wordpress-umziehen-ganz-einfach-mit-dem-plugin-duplicator/
 
-## Gutenberg Editor
+## Gutenberg Editor (Allgemein)
 - https://pixelbar.be/blog/den-gutenberg-editor-um-eigene-farbpaletten-erweitern/
 - https://www.elmastudio.de/wordpress-themes-fuer-gutenberg-vorbereiten/
 - https://wordpress.org/gutenberg/handbook/
@@ -46,8 +46,11 @@
 - https://deliciousbrains.com/preparing-wordpress-themes-gutenberg/
 - https://github.com/WordPress/gutenberg-starter-theme
 - https://webdevstudios.com/2019/02/07/building-a-wordpress-theme/
-- https://www.billerickson.net/building-gutenberg-block-acf/ ("Building Gutenberg Blocks with ACF")
 - https://gutenberg-fibel.de
+- https://wpdevelopment.courses/articles/create-guten-block-beginners-guide/ (Create Guten-Block)
+
+## Gutenberg Editor (kombiniert mit ACF - Advanced Custom Fields)
+- https://www.billerickson.net/building-gutenberg-block-acf/ ("Building Gutenberg Blocks with ACF")
 
 ## Theme Unit Test Content
 - https://codex.wordpress.org/Theme_Unit_Test
