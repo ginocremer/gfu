@@ -59,7 +59,6 @@
 - https://understrap.com/
 - http://underscores.me/
 - https://themble.com/bones/
-- https://github.com/WordPress/gutenberg-starter-theme
 
 # Gutenberg
 
@@ -75,6 +74,9 @@
 - https://webdevstudios.com/2019/02/07/building-a-wordpress-theme/
 - https://gutenberg-fibel.de
 - https://github.com/WordPress/gutenberg-starter-theme
+
+## Umfassende Tutorials
+- https://fullsiteediting.com/
 
 ## Eigene Blöcke mit "Advanced Custom Fields" (ACF)
 - https://www.billerickson.net/building-gutenberg-block-acf/ ("Building Gutenberg Blocks with ACF")
