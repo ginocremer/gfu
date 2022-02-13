@@ -88,7 +88,7 @@
     add_theme_support( 'custom-header' );                             // Individuelles Kopfbild (anpassbar via Theme-Customizer)
     add_theme_support( 'custom-logo' );                               // Individuelles Logo (anpassbar via Theme-Customizer)
     add_theme_support( 'title-tag' );                                 // Erlaubt Plugins den <title>-Tag zu beeeinflussen (z.B. Yoast)
-  
+
   
   // Registrierung (gehört in die Datei functions.php)
   
