@@ -75,6 +75,9 @@
 - https://gutenberg-fibel.de
 - https://github.com/WordPress/gutenberg-starter-theme
 
+## Theme Generator
+- https://fullsiteediting.com/block-theme-generator/
+
 ## Umfassende Tutorials
 - https://fullsiteediting.com/
 
