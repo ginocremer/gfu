@@ -12,6 +12,7 @@
 
 ## Child Themes
 - https://www.webtimiser.de/wordpress-child-theme-erstellen/
+- Child Themes automatisch erstellen via Plugin: https://wordpress.org/plugins/child-theme-configurator/
 
 ## PHP Allgemein
 - https://blog.marvin-menzerath.de/artikel/php-crashkurs-grundlagen/
